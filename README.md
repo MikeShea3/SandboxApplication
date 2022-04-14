@@ -25,6 +25,7 @@
 
 # TODO:
 ### Improve README as project develops(template for future projects)
+### Test everything (JUNIT?)
 ### Implement React
 ### Jenkins/Tekton CI/CD pipeline
 ### API documentation (Swagger?)
