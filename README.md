@@ -29,3 +29,5 @@
 ### Jenkins/Tekton CI/CD pipeline
 ### API documentation (Swagger?)
 ### Clean install to verify installation instructions
+### Why is markup creating clickable links?
+### Response object is a POJO, convert to JSONOBject? For what benefit? And which library?

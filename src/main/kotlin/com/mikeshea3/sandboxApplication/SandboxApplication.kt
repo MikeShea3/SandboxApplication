@@ -4,6 +4,8 @@ package com.mikeshea3.sandboxApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
+// runApplication vs SpringApplication?
+
 @SpringBootApplication
 class SandboxApplication
 
