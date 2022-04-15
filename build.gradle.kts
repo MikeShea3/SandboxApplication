@@ -31,6 +31,10 @@ dependencies {
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 	runtimeOnly("com.h2database:h2")
 	runtimeOnly("org.springframework.boot:spring-boot-devtools")
+	testImplementation("org.junit.jupiter:junit-jupiter-api:5.8.2")
+	testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.8.2")
+	implementation("org.junit.jupiter:junit-jupiter-params:5.8.2")
+	testImplementation(kotlin("test"))
 }
 
 tasks.withType<KotlinCompile> {
