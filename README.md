@@ -1,6 +1,6 @@
 # SandboxApplication
 ### Author: Mike Shea
-### Initialized from: https://start.spring.io/
+### https://github.com/MikeShea3
 
 <hr>
 
@@ -8,7 +8,7 @@
 - ### Architecture: REST API
 - ### Tech: Spring Boot, Kotlin
 - ### Purpose: Simple REST API template for use in future projects
-
+- ### Initialized from: https://start.spring.io/
 <hr>
 
 # Installation/Compilation Instructions
@@ -17,17 +17,28 @@
 - ### Run ./gradlew bootRun
 <hr>
 
+# Testing Framework
+- ### Unit testing: JUnit5
+- ### Integration testing: TBD
+- ### Stubbing: TBD (Wiremock?)
+
+<hr>
+
+# Pipeline
+- ### CI/CD: TBD (Tekton vs Jenkins)
+- ###
+
+<hr>
+
 # Reference Material
-### Setting up a simple REST controller: https://spring.io/guides/gs/rest-service/
-### Examples of good README: https://github.com/matiassingers/awesome-readme
+- ### Setting up a simple REST controller: https://spring.io/guides/gs/rest-service/
+- ### Examples of good README: https://github.com/matiassingers/awesome-readme
 
 <hr>
 
 # TODO:
-### Improve README as project develops(template for future projects)
-### Test everything (JUNIT?)
+### Update README
 ### Implement React
-### Jenkins/Tekton CI/CD pipeline
 ### API documentation (Swagger?)
 ### Clean install to verify installation instructions
 ### Why is markup creating clickable links?
