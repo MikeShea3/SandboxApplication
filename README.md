@@ -26,7 +26,6 @@
 
 # Pipeline
 - ### CI/CD: TBD (Tekton vs Jenkins)
-- ###
 
 <hr>
 
@@ -37,9 +36,8 @@
 <hr>
 
 # TODO:
-### Update README
 ### Implement React
 ### API documentation (Swagger?)
-### Clean install to verify installation instructions
-### Why is markup creating clickable links?
-### Response object is a POJO, convert to JSONOBject? For what benefit? And which library?
+### Verify installation instructions from clean install
+### Investigate why markup is creating clickable links
+### Response object is a POJO, investigate converting to JSONOBject; for what benefit? And which library?
